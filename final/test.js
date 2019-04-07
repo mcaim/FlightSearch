@@ -1,4 +1,4 @@
-var root_url = "http://comp426.cs.unc.edu:3001/";
+//var root_url = "removed server";
 
 let homemenu = $("<h1>FlightSearch</h1><ul class='menu'>"+
   "<li id='home'><a href='#' class='active'>Home</a></li>"+
@@ -28,7 +28,7 @@ $(document).ready(() => {
     //$('#login_btn').on('click', () => {
   
   let user = 'mcaim23';
-  let pass = 'soccercats23';
+  //let pass = 'removed';
 
   //console.log(user);
   //console.log(pass);
